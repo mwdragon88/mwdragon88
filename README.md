@@ -1,18 +1,20 @@
-### Hi there 👋
+<div align="center">
 
-"Entwickler aus Leidenschaft"
+![](https://em-content.zobj.net/thumbs/120/twitter/348/dragon-face_1f432.png)  
 
-<!--
-**mwdragon88/mwdragon88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⸻  
+  
+**Mike Wommer**   
+<sup>"Entwickler aus Leidenschaft" aka. "Entwickler, der Leiden schafft"</sup>  
+  
+**Senior Full Stack .NET Developer**  
+<sup>→ [Projekte & Warenwirtschaft GmbH](https://github.com/puw-gmbh)</sup>  
+  
+##### 🛠️ Languages / Tools
+`C#` `.NET` `XAML` `Xamarin` `Microsoft SQL` `SQLite`  
+  
+⸻  
+  
+<sup>🌍 [www.mike-wommer.de](http://www.mike-wommer.de/)　📫 [mike.wommer@gmail.com](mailto:mike.wommer@gmail.com)</sup>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
