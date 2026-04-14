@@ -8,10 +8,10 @@
 <sup>"Entwickler aus Leidenschaft" aka. "Entwickler, der Leiden schafft"</sup>  
   
 **Senior Full Stack .NET Developer**  
-<sup>→ [Projekte & Warenwirtschaft GmbH](https://github.com/puw-gmbh)</sup>  
+<sup>→ [Green Solutions Software GmbH](https://www.green-solutions.com/de-de)</sup>  
   
 ##### 🛠️ Languages / Tools
-`C#` `.NET` `XAML` `Xamarin` `Microsoft SQL` `SQLite`  
+`C#` `WPF` `.NET` `XAML` `Xamarin` `Maui` `Microsoft SQL` `SQLite` `PowerBuilder`
   
 ⸻  
   
